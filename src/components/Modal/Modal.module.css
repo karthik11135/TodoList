@@ -1,0 +1,7 @@
+.modal {
+    position: absolute;
+    z-index: 2;
+    background-color: aliceblue;
+    display: inline-block;
+    max-width: 35rem !important;
+}
